@@ -67,4 +67,3 @@
 </picture>
 
 ###
-![Pac-Man Contribution Graph](pacman-api.lab.abozanona.me[CamilyDias]&platform=github)
