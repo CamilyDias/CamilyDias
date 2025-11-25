@@ -68,6 +68,3 @@
 </picture>
 
 ###
-
-<picture>
-  <source media="(prefers-color
