@@ -68,3 +68,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/CamilyDias/CamilyDias/output/snake.svg" alt="Snake animation" />
+
+###
