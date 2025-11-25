@@ -60,7 +60,6 @@
 🐙 *GitHub:* https://github.com/CamilyDias  
 </div>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CamilyDias/CamilyDias/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CamilyDias/CamilyDias/output/pacman-contribution-graph.svg">
