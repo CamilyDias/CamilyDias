@@ -5,7 +5,7 @@
 
 
 ## 🖤 Sobre mim
-- 🌸 Estudante de Desenvolvimento Web  
+- 🌸 Estudante de ADS na IFSP-Campus Capivari  
 - 💻 Focada em HTML, CSS e JavaScript  
 - 🎯 Objetivo: criar interfaces modernas, simples e funcionais  
 - 📚 Sempre aprendendo e construindo novos projetos
