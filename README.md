@@ -13,12 +13,10 @@
 
 
 ## 🎀 Estatísticas 
-<div>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?CamilyDias=anuraghazra&show_icons=true&theme=radical) 
- 
 
-</div>
+[(https://github-readme-stats.vercel.app/api?username=CamilyDias&theme=tokyonight&hide=stars&hide=commits&hide=repos&hide_rank=true&show_icons=true)
+](https://githubcard.com/CamilyDias.svg?d=FyEgT0aJ)
 
 ## 🖤 Tecnologias que uso
 
