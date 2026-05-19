@@ -14,7 +14,7 @@
 
 ## 🎀 Estatísticas 
 
-<img src="CamilyDias-card.png"/>
+<img src="CamilyDias-card (1).png"/>
 
 
 ## 🖤 Tecnologias que uso
