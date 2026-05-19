@@ -6,8 +6,8 @@
 
 ## 🖤 Sobre mim
 - 🌸 Estudante de ADS na IFSP-Campus Capivari  
-- 💻 Focada em HTML, CSS e JavaScript  
-- 🎯 Objetivo: criar interfaces modernas, simples e funcionais  
+- ✨ Criando interfaces web e evoluindo no backend 
+- 🎯 Objetivo: criar interfaces modernas, simples e funcionais enquanto melhoro sistemas de automação  
 - 📚 Sempre aprendendo e construindo novos projetos
 
 
