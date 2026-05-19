@@ -15,8 +15,7 @@
 ## 🎀 Estatísticas 
 
 
-[(https://github-readme-stats.vercel.app/api?username=CamilyDias&theme=tokyonight&hide=stars&hide=commits&hide=repos&hide_rank=true&show_icons=true)
-](https://githubcard.com/CamilyDias.svg?d=FyEgT0aJ)
+<img src="banner.png"/>
 
 ## 🖤 Tecnologias que uso
 
