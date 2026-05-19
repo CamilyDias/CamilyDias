@@ -14,12 +14,10 @@
 
 ## 🎀 Estatísticas 
 <div>
-<p align="left">
-  <img 
-    src="https://metrics.lecoq.io/CamilyDias?template=classic&base=header,activity&config.timezone=America%2FSao_Paulo&base.hireable=true&config.animated=true" 
-    width="40%" 
-  />
-</p>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?CamilyDias=anuraghazra&show_icons=true&theme=radical) 
+ 
+
 </div>
 
 ## 🖤 Tecnologias que uso
